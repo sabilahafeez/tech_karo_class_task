@@ -1,0 +1,120 @@
+
+*{
+    margin: 0 auto;
+}
+header{
+    background-color: rgb(59, 112, 226);
+    display: flex;
+    padding: 20px 20px;
+    color: white;
+
+}
+
+
+.header ul li {
+    list-style: none;
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px;
+    border-left: 1px solid blue;
+    
+}
+.simmon{
+    text-align: center;
+}
+.nav{
+    height: 70px;
+    padding: ;
+}
+.btn a{
+    padding: 10px 10px 10px 10px ;
+    text-decoration: none;
+    border: 1px solid black;
+    background-color: white;
+    }
+    
+.nav {
+    background-color:#082f86 ;
+    }
+.nav ul a{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    padding: 50px;
+    font-size: larger;
+    line-height: 80px;
+}
+.img img{
+    width:100%;
+}
+.make_your_move{
+    background-color: rgb(18, 156, 18);
+    padding: 30px;
+    color: white;
+    width: 90%;
+}
+.make_your_move h1,p{
+    display: inline-block;
+    padding: 30px;
+}
+.three_divs{
+    display: flex;
+    margin: 20px 50px 20px 50px;
+
+
+}
+.inner-div{
+    padding: 10px 5px 5px 5px;
+    margin: 20px;
+    background-color: #efeaea;
+    flex: 1;
+    font-size: x-large;
+    text-align: center;
+}
+.button button{
+    padding: 20px 50px 20px 50px;
+    margin: 30px 30px 30px 30px;
+    border-radius: 5px;
+    border: 1px solid blue;
+    background-color: white;
+    color: blue;
+}
+.button{
+    text-align: center;
+}
+.footer{
+    background-color: black;
+    color: white;
+}
+.three_divs .inner-div h2{
+    color: cornflowerblue;
+}
+.inner-div .row{
+    margin: 10px ;
+}
+.inner-div .row p{
+    border: 1px solid black;
+    color: green;
+}
+.inner-div .row div{
+    float: right;
+    text-align: left;
+    width: 70%;
+}
+.footer .col{
+    float: left;
+    width: 370px;
+   
+
+}
+#white{
+    color: white;
+}
+#purple{
+    background-color: purple;
+    color: white !important;
+}
+#blue{
+    background-color: rgb(59, 112, 226);
+    color: white;
+}
